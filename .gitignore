@@ -1,8 +1,5 @@
 *input.txt
 *input_test.txt
-*pom.xml
-*.classpath
-*.project
 /bin/
 /target/
 /.settings/
