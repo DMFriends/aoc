@@ -32,7 +32,7 @@ public class Day11Part2
 
 	public static void main(String[] args)
 	{
-		try (Scanner input = new Scanner(new File("./src/main/java/day11/input.txt")))
+		try (Scanner input = new Scanner(new File("./src/main/java/_2025/day11/input.txt")))
 		{
 			List<String> lines = new ArrayList<>();
 			while (input.hasNextLine())

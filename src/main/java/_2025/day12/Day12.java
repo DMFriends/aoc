@@ -41,8 +41,8 @@ public class Day12
 	
 	public static void main(String[] args)
 	{
-		try (Scanner input = new Scanner(new File("./src/main/java/day12/input.txt")))
-		//try (Scanner input = new Scanner(new File("./src/main/java/day12/input_test.txt")))
+		try (Scanner input = new Scanner(new File("./src/main/java/_2025/day12/input.txt")))
+		//try (Scanner input = new Scanner(new File("./src/main/java/_2025/day12/input_test.txt")))
 		{
 			while(input.hasNextLine())
 			{
