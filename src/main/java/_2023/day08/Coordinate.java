@@ -20,14 +20,4 @@ public class Coordinate
 	{
 		return y;
 	}
-	
-	public void setX(String x)
-	{
-		this.x = x;
-	}
-	
-	public void setY(String y)
-	{
-		this.y = y;
-	}
 }
