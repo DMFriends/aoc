@@ -1,5 +1,6 @@
 *input.txt
 *input_test.txt
+.classpath
 /bin/
 /target/
 /.settings/
